@@ -1,5 +1,5 @@
 # SQL-Server
-Hệ CSDL quản lý rạp chiếu phim
+HỆ CSDL QUẢN LÝ RẠP CHIẾU PHIM
 
 Lược đồ quan hệ:
 
